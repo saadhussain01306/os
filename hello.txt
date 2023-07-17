@@ -1,0 +1,7 @@
+this is a text 
+file 
+to
+stimulate
+the the 
+cat 
+command
